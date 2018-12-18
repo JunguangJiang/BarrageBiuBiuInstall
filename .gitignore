@@ -8,6 +8,7 @@
 *.so
 *.dll
 *.dylib
+*.exe
 
 # Qt-es
 object_script.*.Release
@@ -41,3 +42,5 @@ target_wrapper.*
 
 # QtCreator CMake
 CMakeLists.txt.user*
+
+*\data\*
