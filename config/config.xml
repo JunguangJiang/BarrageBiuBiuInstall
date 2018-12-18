@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>弹幕BiuBiu应用程序</Name>
+    <Version>1.0.0</Version>
+    <Title>安装向导</Title>
+    <Publisher>清华大学软件学院</Publisher>
+    <!-- Directory name is used in component.xml -->
+    <StartMenuDir>弹幕BiuBiu应用程序安装向导</StartMenuDir>
+    <TargetDir>@RootDir@/BarrageBiuBiu</TargetDir>
+</Installer>

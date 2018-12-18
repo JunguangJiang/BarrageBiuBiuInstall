@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>弹幕BiuBiu应用程序</DisplayName>
+    <Description></Description>
+    <Version>1.0.0-1</Version>
+    <ReleaseDate>2019-01-01</ReleaseDate>
+    <Default>true</Default>
+    <Script>installscript.qs</Script>
+    <ForcedInstallation>true</ForcedInstallation>
+</Package>
